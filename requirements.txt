@@ -1,0 +1,14 @@
+fastapi[standard]
+pymongo
+python-dotenv
+motor
+pinecone
+beanie
+sentence-transformers
+crawl4ai # after this, run 'playwright install'
+google-genai
+python-docx
+pandas
+pyPDF2
+passlib
+python-jose
