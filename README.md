@@ -1,4 +1,4 @@
-# CreateCustomRAG_Agents
+# Create Custom RAG Agents
 
 A FastAPI-based backend that lets users create their own Retrieval-Augmented Generation (RAG) agents (“bots”).  
 Each bot can be powered by:
